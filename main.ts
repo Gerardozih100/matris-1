@@ -11,7 +11,7 @@ true
 )
 basic.forever(function () {
     max7219_matrix.scrollText(
-    "Hello world!",
+    "Hola Mundo!",
     0,
     500
     )
