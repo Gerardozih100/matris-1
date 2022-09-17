@@ -1,6 +1,6 @@
 max7219_matrix.setup(
 4,
-DigitalPin.P16,
+DigitalPin.P12,
 DigitalPin.P15,
 DigitalPin.P14,
 DigitalPin.P13
