@@ -6,7 +6,7 @@ DigitalPin.P14,
 DigitalPin.P13
 )
 max7219_matrix.for_4_in_1_modules(
-rotation_direction.clockwise,
+rotation_direction.counterclockwise,
 true
 )
 basic.forever(function () {
